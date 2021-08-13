@@ -1,0 +1,13 @@
+{
+    "name": "krish/twig-ex",
+    "description": "hello world",
+    "authors": [
+        {
+            "name": "Krishna Kanth",
+            "email": "krishna@volkotech.in"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.3"
+    }
+}
